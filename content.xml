@@ -1,0 +1,2383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260610171436U7D5UX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026061017143687526B</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Tocamos canciones: Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Juan Bautista Manzanares Guillén</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Recurso Educativo Abierto (REA) creado con eXeLearning 3 para alumnado de 8–9 años en iniciación al violonchelo.
+Incluye actividades prácticas, recursos digitales, curación de contenidos, instrumentos de evaluación, línea temporal, guía didáctica y un producto final audiovisual.
+El proyecto desarrolla la autonomía musical, la afinación cooperativa, la competencia digital y la autoevaluación mediante un enfoque activo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781104335057</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq87j8dh-7e8og8q9h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TOCAMOS CANCIONES: AFINACIÓN COOPERATIVA Y
+     AUTONOMÍA AUDIOVISUAL EN EL VIOLONCHELO.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TOCAMOS CANCIONES: AFINACIÓN COOPERATIVA Y
+     AUTONOMÍA AUDIOVISUAL EN EL VIOLONCHELO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tocamos canciones: Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TOCAMOS CANCIONES: AFINACIÓN COOPERATIVA Y
+     AUTONOMÍA AUDIOVISUAL EN EL VIOLONCHELO.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dh-7e8og8q9h</odePageId>
+      <odeBlockId>block-1780915298420-campmg2a4</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dh-7e8og8q9h</odePageId>
+          <odeBlockId>block-1780915298420-campmg2a4</odeBlockId>
+          <odeIdeviceId>idevice-1780915298415-8q9w84wqu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenido/a a este proyecto musical donde aprenderás a tocar mejor el violonchelo, afinar con autonomía, grabar tu propio vídeo musical y trabajar en equipo.<br />Aquí encontrarás actividades, recursos, vídeos, juegos y retos para avanzar paso a paso.</p>
+<p><img src="{{context_path}}/content/resources/cello.png" width="612" height="1072" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780915298415-8q9w84wqu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenido/a a este proyecto musical donde aprenderás a tocar mejor el violonchelo, afinar con autonomía, grabar tu propio vídeo musical y trabajar en equipo.<br />Aquí encontrarás actividades, recursos, vídeos, juegos y retos para avanzar paso a paso.</p>\n<p><img src=\"{{context_path}}/content/resources/cello.png\" width=\"612\" height=\"1072\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8dm-uaw8awun5</odePageId>
+  <odeParentPageId>page-mq87j8dh-7e8og8q9h</odeParentPageId>
+  <pageName>1. Presentación del Proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dm-uaw8awun5</odePageId>
+      <odeBlockId>block-1780915941686-1rc34gwe1</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dm-uaw8awun5</odePageId>
+          <odeBlockId>block-1780915941686-1rc34gwe1</odeBlockId>
+          <odeIdeviceId>idevice-1780915941685-tpn5lzj85</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>
+<h4><strong>DATOS IDENTIFICATIVOS DEL PROYECTO</strong></h4>
+</li>
+</ol>
+<ul>
+<li><strong>Título del proyecto:</strong> Tocamos canciones: Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo.</li>
+<li><strong>Temática:</strong> La autoescucha, la colocación precisa de la mano izquierda en primera posición, la salud postural del violonchelista y la coevaluación mediante herramientas de soporte digital y analógico.</li>
+<li><strong style="font-size: 14.4px;">Nivel al que va dirigido:</strong><span style="font-size: 14.4px;"> 1º Curso de Enseñanzas Básicas de Música (alumnado de 8-9 años).</span></li>
+<li><strong style="font-size: 14.4px;">Temporalización aproximada:</strong><span style="font-size: 14.4px;"> 4 semanas (8 sesiones colectivas de 1 hora cada una, distribuidas en dos clases semanales).</span></li>
+<li><strong style="font-size: 14.4px;">Materias implicadas: </strong><span style="font-size: 14.4px;">Instrumento Principal (Violonchelo) y Lenguaje Musical (en coordinación interdisciplinar para la lectura de las alturas trabajadas).</span></li>
+<li><strong style="font-size: 14.4px;">Idioma: </strong><span style="font-size: 14.4px;">Español.</span></li>
+</ul>
+<h4> 2. <strong>DESCRIPCIÓN GENERAL DEL PROYECTO</strong><br /><br />Esta Situación de Aprendizaje (SdA) tiene como objetivo que el alumnado adquiera una correcta colocación de la mano izquierda en primera posición y desarrolle el control básico de la afinación a través de metodologías activas como el Flipped Learning (Aula Invertida) y el Aprendizaje Cooperativo. El proyecto se articula en tres fases consecutivas:</h4>
+<ul>
+<li>
+<p>Fase Invertida (En casa): El alumnado realiza una inmersión auditiva y visual previa mediante micro-vídeos didácticos de corta duración accesibles en abierto.</p>
+</li>
+<li>
+<p>Fase de Práctica Cooperativa (En el aula): En cada sesión de clase colectiva, los tres alumnos rotan secuencialmente por tres roles de un trío de trabajo:<br /><br />El Intérprete: Ejecuta los ejercicios técnicos y piezas musicales concentrándose en su producción de sonido y postura corporal.<br /><br />El Controlador/luthier Digital: Gestiona de forma local un dispositivo digital con una aplicación de afinación visual o utiliza recursos analógicos para dar retroalimentación en tiempo real a su compañero.<br /><br />El Evaluador: Registra de forma manuscrita o digital los progresos a modo de evalución y asume las decisiones  ante incidencias.</p>
+</li>
+<li>
+<p>Fase de Consolidación: Grabación de un micro-vídeo final individual de 30 segundos donde cada alumno demuestra de forma autónoma la asimilación del contenido técnico y su capacidad de autoevaluación auditiva.</p>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780915941685-tpn5lzj85","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>\n<h4><strong>DATOS IDENTIFICATIVOS DEL PROYECTO</strong></h4>\n</li>\n</ol>\n<ul>\n<li><strong>Título del proyecto:</strong> Tocamos canciones: Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo.</li>\n<li><strong>Temática:</strong> La autoescucha, la colocación precisa de la mano izquierda en primera posición, la salud postural del violonchelista y la coevaluación mediante herramientas de soporte digital y analógico.</li>\n<li><strong style=\"font-size: 14.4px;\">Nivel al que va dirigido:</strong><span style=\"font-size: 14.4px;\"> 1º Curso de Enseñanzas Básicas de Música (alumnado de 8-9 años).</span></li>\n<li><strong style=\"font-size: 14.4px;\">Temporalización aproximada:</strong><span style=\"font-size: 14.4px;\"> 4 semanas (8 sesiones colectivas de 1 hora cada una, distribuidas en dos clases semanales).</span></li>\n<li><strong style=\"font-size: 14.4px;\">Materias implicadas: </strong><span style=\"font-size: 14.4px;\">Instrumento Principal (Violonchelo) y Lenguaje Musical (en coordinación interdisciplinar para la lectura de las alturas trabajadas).</span></li>\n<li><strong style=\"font-size: 14.4px;\">Idioma: </strong><span style=\"font-size: 14.4px;\">Español.</span></li>\n</ul>\n<h4> 2. <strong>DESCRIPCIÓN GENERAL DEL PROYECTO</strong><br /><br />Esta Situación de Aprendizaje (SdA) tiene como objetivo que el alumnado adquiera una correcta colocación de la mano izquierda en primera posición y desarrolle el control básico de la afinación a través de metodologías activas como el Flipped Learning (Aula Invertida) y el Aprendizaje Cooperativo. El proyecto se articula en tres fases consecutivas:</h4>\n<ul>\n<li>\n<p>Fase Invertida (En casa): El alumnado realiza una inmersión auditiva y visual previa mediante micro-vídeos didácticos de corta duración accesibles en abierto.</p>\n</li>\n<li>\n<p>Fase de Práctica Cooperativa (En el aula): En cada sesión de clase colectiva, los tres alumnos rotan secuencialmente por tres roles de un trío de trabajo:<br /><br />El Intérprete: Ejecuta los ejercicios técnicos y piezas musicales concentrándose en su producción de sonido y postura corporal.<br /><br />El Controlador/luthier Digital: Gestiona de forma local un dispositivo digital con una aplicación de afinación visual o utiliza recursos analógicos para dar retroalimentación en tiempo real a su compañero.<br /><br />El Evaluador: Registra de forma manuscrita o digital los progresos a modo de evalución y asume las decisiones  ante incidencias.</p>\n</li>\n<li>\n<p>Fase de Consolidación: Grabación de un micro-vídeo final individual de 30 segundos donde cada alumno demuestra de forma autónoma la asimilación del contenido técnico y su capacidad de autoevaluación auditiva.</p>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8dn-4ff7xpe9t</odePageId>
+  <odeParentPageId>page-mq87j8dm-uaw8awun5</odeParentPageId>
+  <pageName>1.1. ¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dn-4ff7xpe9t</odePageId>
+      <odeBlockId>block-1780842736300-s1bohx3vk</odeBlockId>
+      <blockName>En este proyecto aprenderás a:</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dn-4ff7xpe9t</odePageId>
+          <odeBlockId>block-1780842736300-s1bohx3vk</odeBlockId>
+          <odeIdeviceId>idevice-1780842736300-367zxxr0i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<ul>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Conocer mejor tu violonchelo.</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Colocar correctamente tu cuerpo y tus manos.</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Afinar las cuerdas al aire usando un afinador digital.</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tocar pequeñas piezas con buena postura y sonido.</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Grabar un micro‑vídeo musical mostrando tus progresos.</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Evaluarte a ti mismo/ay mejorar cada día.</span></span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780842736300-367zxxr0i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<ul>\n<li><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Conocer mejor tu violonchelo.</span></span></li>\n<li><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Colocar correctamente tu cuerpo y tus manos.</span></span></li>\n<li><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Afinar las cuerdas al aire usando un afinador digital.</span></span></li>\n<li><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Tocar pequeñas piezas con buena postura y sonido.</span></span></li>\n<li><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Grabar un micro‑vídeo musical mostrando tus progresos.</span></span></li>\n<li><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Evaluarte a ti mismo/ay mejorar cada día.</span></span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8do-nnvgvsvlm</odePageId>
+  <odeParentPageId>page-mq87j8dm-uaw8awun5</odeParentPageId>
+  <pageName>1.2. ¿Por qué es importante?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. ¿Por qué es importante?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. ¿Por qué es importante?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8do-nnvgvsvlm</odePageId>
+      <odeBlockId>block-1780842829943-0w111tjjc</odeBlockId>
+      <blockName></blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8do-nnvgvsvlm</odePageId>
+          <odeBlockId>block-1780842829943-0w111tjjc</odeBlockId>
+          <odeIdeviceId>idevice-1780842829942-bzj41fvc3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tocar un instrumento no es solo hacer sonar las cuerdas: es aprender a escucharte, a concentrarte, a trabajar con otros y a expresarte.<br />Además, aprenderás a usar herramientas digitales de forma segura y responsable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780842829942-bzj41fvc3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tocar un instrumento no es solo hacer sonar las cuerdas: es aprender a escucharte, a concentrarte, a trabajar con otros y a expresarte.<br />Además, aprenderás a usar herramientas digitales de forma segura y responsable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8dp-1c72qz3mf</odePageId>
+  <odeParentPageId>page-mq87j8dm-uaw8awun5</odeParentPageId>
+  <pageName>1.3. ¿Cómo trabajaremos?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3. ¿Cómo trabajaremos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3. ¿Cómo trabajaremos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dp-1c72qz3mf</odePageId>
+      <odeBlockId>block-1780842882139-znc7khb56</odeBlockId>
+      <blockName></blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dp-1c72qz3mf</odePageId>
+          <odeBlockId>block-1780842882139-znc7khb56</odeBlockId>
+          <odeIdeviceId>idevice-1780842882138-nu8mvxo48</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Con actividades prácticas.</li>
+<li>En parejas y en grupo.</li>
+<li>Con vídeos, audios y recursos digitales.</li>
+<li>Con retos musicales.</li>
+<li>Con autoevaluaciones y feedback.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780842882138-nu8mvxo48","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Con actividades prácticas.</li>\n<li>En parejas y en grupo.</li>\n<li>Con vídeos, audios y recursos digitales.</li>\n<li>Con retos musicales.</li>\n<li>Con autoevaluaciones y feedback.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8dq-s8s3xtu3w</odePageId>
+  <odeParentPageId>page-mq87j8dm-uaw8awun5</odeParentPageId>
+  <pageName>1.4. Principios DUA aplicados</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.4. Principios DUA aplicados</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.4. Principios DUA aplicados</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dq-s8s3xtu3w</odePageId>
+      <odeBlockId>block-1780842935012-082ih4swi</odeBlockId>
+      <blockName>Redes de Aprendizaje</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dq-s8s3xtu3w</odePageId>
+          <odeBlockId>block-1780842935012-082ih4swi</odeBlockId>
+          <odeIdeviceId>idevice-1780842935012-av2incyiy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Múltiples formas de representación: vídeos, imágenes, audios, textos.</li>
+<li>Múltiples formas de acción y expresión: tocar, grabar, reflexionar, elegir recursos.</li>
+<li>Múltiples formas de implicación: retos, gamificación, trabajo cooperativo.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780842935012-av2incyiy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Múltiples formas de representación: vídeos, imágenes, audios, textos.</li>\n<li>Múltiples formas de acción y expresión: tocar, grabar, reflexionar, elegir recursos.</li>\n<li>Múltiples formas de implicación: retos, gamificación, trabajo cooperativo.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8dt-lk7g69it6</odePageId>
+  <odeParentPageId>page-mq87j8dm-uaw8awun5</odeParentPageId>
+  <pageName>1.5. Nivel educativo y contexto</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.5. Nivel educativo y contexto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.5. Nivel educativo y contexto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dt-lk7g69it6</odePageId>
+      <odeBlockId>block-1780842996821-h6t3fdu7m</odeBlockId>
+      <blockName>Nivel al que va dirigido:</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dt-lk7g69it6</odePageId>
+          <odeBlockId>block-1780842996821-h6t3fdu7m</odeBlockId>
+          <odeIdeviceId>idevice-1780842996819-mgmp17gf2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1º Curso de Enseñanzas Básicas de Música (alumnado de 8-9 años).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780842996819-mgmp17gf2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1º Curso de Enseñanzas Básicas de Música (alumnado de 8-9 años).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8dv-mx874nxcv</odePageId>
+  <odeParentPageId>page-mq87j8dh-7e8og8q9h</odeParentPageId>
+  <pageName>2. Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dv-mx874nxcv</odePageId>
+      <odeBlockId>block-1780919646840-kf9wprpgu</odeBlockId>
+      <blockName>Protección de datos personales y garantías de derechos digitales</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dv-mx874nxcv</odePageId>
+          <odeBlockId>block-1780919646840-kf9wprpgu</odeBlockId>
+          <odeIdeviceId>idevice-1780919646839-t6ab9e7tt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Infografía_Seguridad_Digital_Alumnado_Juan.png" width="958" height="1437" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780919646839-t6ab9e7tt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía_Seguridad_Digital_Alumnado_Juan.png\" width=\"958\" height=\"1437\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8dw-dcvg2i3i5</odePageId>
+  <odeParentPageId>page-mq87j8dh-7e8og8q9h</odeParentPageId>
+  <pageName>3. Producto final del alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dw-dcvg2i3i5</odePageId>
+      <odeBlockId>block-1781085062482-gsm3v45o7</odeBlockId>
+      <blockName>🎻 ¿Qué vas a crear?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dw-dcvg2i3i5</odePageId>
+          <odeBlockId>block-1781085062482-gsm3v45o7</odeBlockId>
+          <odeIdeviceId>idevice-1781085062481-sb0pur18v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al final de este proyecto elaborarás un <strong>micro‑vídeo musical</strong> donde demostrarás todo lo que has aprendido sobre el violonchelo. Será un vídeo breve, claro y creativo, en el que mostrarás tu progreso técnico y tu capacidad para tocar con buena postura, afinación y expresión.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781085062481-sb0pur18v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al final de este proyecto elaborarás un <strong>micro‑vídeo musical</strong> donde demostrarás todo lo que has aprendido sobre el violonchelo. Será un vídeo breve, claro y creativo, en el que mostrarás tu progreso técnico y tu capacidad para tocar con buena postura, afinación y expresión.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8dy-u30swwt8z</odePageId>
+  <odeParentPageId>page-mq87j8dw-dcvg2i3i5</odeParentPageId>
+  <pageName>3.1. ¿Qué debe aparecer en el vídeo?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1. ¿Qué debe aparecer en el vídeo?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1. Descripción del micro‑vídeo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.1. ¿Qué debe aparecer en el vídeo?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dy-u30swwt8z</odePageId>
+      <odeBlockId>block-1780919869250-wy8rd1hxp</odeBlockId>
+      <blockName></blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dy-u30swwt8z</odePageId>
+          <odeBlockId>block-1780919869250-wy8rd1hxp</odeBlockId>
+          <odeIdeviceId>idevice-1780919869248-ejainth9z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Grabarás un vídeo de 30–50 segundos donde mostrarás:</p>
+<ul>
+<li>
+<p>Postura correcta del cuerpo y del instrumento</p>
+</li>
+<li>
+<p>Mano izquierda colocada en <strong>1ª posición</strong></p>
+</li>
+<li>
+<p><strong></strong>Afinación de las cuerdas al aire usando un afinador digital</p>
+</li>
+<li>
+<p>Control del arco con sonido estable</p>
+</li>
+<li>
+<p>Interpretación de un pequeño fragmento musical</p>
+</li>
+<li>
+<p>Una<strong> breve autoevaluación oral </strong>(qué te ha salido bien y qué quieres mejorar)</p>
+</li>
+</ul>
+<p><span style="font-size: 14.4px;" title="">Si quieres ver ejemplos o modelos, puedes consultarlos aquí: 👉 <a href="https://drive.google.com/file/d/1pr6nmBMFw1LrATKjfg8rV_dpG8yMu2r1/view?usp=sharing">modelos micro-video violonchelo</a></span></p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780919869248-ejainth9z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Grabarás un vídeo de 30–50 segundos donde mostrarás:</p>\n<ul>\n<li>\n<p>Postura correcta del cuerpo y del instrumento</p>\n</li>\n<li>\n<p>Mano izquierda colocada en <strong>1ª posición</strong></p>\n</li>\n<li>\n<p><strong></strong>Afinación de las cuerdas al aire usando un afinador digital</p>\n</li>\n<li>\n<p>Control del arco con sonido estable</p>\n</li>\n<li>\n<p>Interpretación de un pequeño fragmento musical</p>\n</li>\n<li>\n<p>Una<strong> breve autoevaluación oral </strong>(qué te ha salido bien y qué quieres mejorar)</p>\n</li>\n</ul>\n<p><span style=\"font-size: 14.4px;\" title=\"\">Si quieres ver ejemplos o modelos, puedes consultarlos aquí: 👉 <a href=\"https://drive.google.com/file/d/1pr6nmBMFw1LrATKjfg8rV_dpG8yMu2r1/view?usp=sharing\">modelos micro-video violonchelo</a></span></p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8dz-5i42iwbt7</odePageId>
+  <odeParentPageId>page-mq87j8dw-dcvg2i3i5</odeParentPageId>
+  <pageName>3.2 ¿Cómo grabarlo?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2 ¿Cómo grabarlo?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2. Requisitos técnicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.2 ¿Cómo grabarlo?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dz-5i42iwbt7</odePageId>
+      <odeBlockId>block-1780919903235-vyezid7c1</odeBlockId>
+      <blockName></blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dz-5i42iwbt7</odePageId>
+          <odeBlockId>block-1780919903235-vyezid7c1</odeBlockId>
+          <odeIdeviceId>idevice-1780919903234-oqn9klmtp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Puedes grabarlo con:</p>
+<ul>
+<li>Tablet</li>
+<li>Móvil</li>
+<li>Ordenador con webcam</li>
+</ul>
+<p>Recomendaciones:</p>
+<ul>
+<li>Busca un lugar tranquilo y con buena luz</li>
+<li>Coloca el dispositivo en un soporte estable</li>
+<li>Asegúrate de que se ve <strong>todo tu cuerpo y el violonchelo</strong></li>
+<li>Comprueba que el sonido es claro y se escucha la afinación</li>
+</ul>
+<p><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780919903234-oqn9klmtp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Puedes grabarlo con:</p>\n<ul>\n<li>Tablet</li>\n<li>Móvil</li>\n<li>Ordenador con webcam</li>\n</ul>\n<p>Recomendaciones:</p>\n<ul>\n<li>Busca un lugar tranquilo y con buena luz</li>\n<li>Coloca el dispositivo en un soporte estable</li>\n<li>Asegúrate de que se ve <strong>todo tu cuerpo y el violonchelo</strong></li>\n<li>Comprueba que el sonido es claro y se escucha la afinación</li>\n</ul>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8dz-fn1c1jzi4</odePageId>
+  <odeParentPageId>page-mq87j8dw-dcvg2i3i5</odeParentPageId>
+  <pageName>3.3. ¿Cómo prepararte antes de grabar?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.3. ¿Cómo prepararte antes de grabar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.3. Ejemplos / Modelos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.3. ¿Cómo prepararte antes de grabar?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8dz-fn1c1jzi4</odePageId>
+      <odeBlockId>block-1780919938570-5xab1k8np</odeBlockId>
+      <blockName></blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8dz-fn1c1jzi4</odePageId>
+          <odeBlockId>block-1780919938570-5xab1k8np</odeBlockId>
+          <odeIdeviceId>idevice-1780919938569-q8egqmi2d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de grabar, revisa:</p>
+<ul>
+<li>Tu postura</li>
+<li>La afinación de las cuerdas</li>
+<li>El fragmento que vas a tocar</li>
+<li>La posición del arco</li>
+<li>Tu respiración y relajación</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780919938569-q8egqmi2d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de grabar, revisa:</p>\n<ul>\n<li>Tu postura</li>\n<li>La afinación de las cuerdas</li>\n<li>El fragmento que vas a tocar</li>\n<li>La posición del arco</li>\n<li>Tu respiración y relajación</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8e0-qkonj2ie3</odePageId>
+  <odeParentPageId>page-mq87j8dw-dcvg2i3i5</odeParentPageId>
+  <pageName>3.4. ¿Cómo entregar el vídeo?</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.4. ¿Cómo entregar el vídeo?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.4. Cómo entregar el vídeo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.4. ¿Cómo entregar el vídeo?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8e0-qkonj2ie3</odePageId>
+      <odeBlockId>block-1780919970411-2230cb0h3</odeBlockId>
+      <blockName></blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8e0-qkonj2ie3</odePageId>
+          <odeBlockId>block-1780919970411-2230cb0h3</odeBlockId>
+          <odeIdeviceId>idevice-1780919970410-7q88qpnav</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cuando tengas tu micro‑vídeo listo:</p>
+<ol>
+<li>Entra en el Padlet del proyecto</li>
+<li>Busca la columna “Mi micro‑vídeo final”</li>
+<li>Pulsa el botón “+”</li>
+<li>Sube tu vídeo o pega el enlace si lo has subido a Drive</li>
+<li>Añade tu nombre y una frase sobre tu experiencia</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780919970410-7q88qpnav","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cuando tengas tu micro‑vídeo listo:</p>\n<ol>\n<li>Entra en el Padlet del proyecto</li>\n<li>Busca la columna “Mi micro‑vídeo final”</li>\n<li>Pulsa el botón “+”</li>\n<li>Sube tu vídeo o pega el enlace si lo has subido a Drive</li>\n<li>Añade tu nombre y una frase sobre tu experiencia</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8e1-e3ewbc3vz</odePageId>
+  <odeParentPageId>page-mq87j8dh-7e8og8q9h</odeParentPageId>
+  <pageName>4. Curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8e1-e3ewbc3vz</odePageId>
+      <odeBlockId>block-1781085544223-9bbirwfyf</odeBlockId>
+      <blockName>📚 CURACIÓN DE CONTENIDOS DEL PROYECTO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8e1-e3ewbc3vz</odePageId>
+          <odeBlockId>block-1781085544223-9bbirwfyf</odeBlockId>
+          <odeIdeviceId>idevice-1781085544222-5w5xa3mpe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto incorpora dos paneles de curación:</p>
+<ul>
+<li><strong>Panel para el alumnado</strong>: recursos que usarán para aprender, practicar y grabar su micro‑vídeo. </li>
+</ul>
+<ul>
+<li><strong>Panel para el docente</strong>: herramientas, tutoriales y materiales que utilizo en mi práctica diaria como profesor de violonchelo. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781085544222-5w5xa3mpe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto incorpora dos paneles de curación:</p>\n<ul>\n<li><strong>Panel para el alumnado</strong>: recursos que usarán para aprender, practicar y grabar su micro‑vídeo. </li>\n</ul>\n<ul>\n<li><strong>Panel para el docente</strong>: herramientas, tutoriales y materiales que utilizo en mi práctica diaria como profesor de violonchelo. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8e2-qoy1h95r4</odePageId>
+  <odeParentPageId>page-mq87j8e1-e3ewbc3vz</odeParentPageId>
+  <pageName>🎒 1. Panel de Curación para el Alumnado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎒 1. Panel de Curación para el Alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎒 1. Panel de Curación para el Alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8e2-qoy1h95r4</odePageId>
+      <odeBlockId>block-1781086183368-yhr3oqcqj</odeBlockId>
+      <blockName>Padlet — Recursos para aprender y practicar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8e2-qoy1h95r4</odePageId>
+          <odeBlockId>block-1781086183368-yhr3oqcqj</odeBlockId>
+          <odeIdeviceId>idevice-1781086183368-infyg197f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este panel reúne los recursos que el alumnado necesita para realizar el proyecto:</p>
+<ul>
+<li>Vídeos de postura y colocación del violonchelo</li>
+<li>Ejercicios de mano izquierda</li>
+<li>Control del arco</li>
+<li>Afinación con herramientas digitales</li>
+<li>Mini‑tutoriales para grabar el micro‑vídeo</li>
+<li>Ejemplos de melodías sencillas</li>
+<li>Infografías creadas en Canva</li>
+<li>Acceso al afinador cromático online<br /></li>
+</ul>
+<p>👉 <a href="https://padlet.com/jbmanza/primeros-pasos-al-violonchelo-postura-afinacion-y-lectura-t3preprv3ioi9e8q" title="">Acceder al Padlet del Alumnado</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781086183368-infyg197f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este panel reúne los recursos que el alumnado necesita para realizar el proyecto:</p>\n<ul>\n<li>Vídeos de postura y colocación del violonchelo</li>\n<li>Ejercicios de mano izquierda</li>\n<li>Control del arco</li>\n<li>Afinación con herramientas digitales</li>\n<li>Mini‑tutoriales para grabar el micro‑vídeo</li>\n<li>Ejemplos de melodías sencillas</li>\n<li>Infografías creadas en Canva</li>\n<li>Acceso al afinador cromático online<br /></li>\n</ul>\n<p>👉 <a href=\"https://padlet.com/jbmanza/primeros-pasos-al-violonchelo-postura-afinacion-y-lectura-t3preprv3ioi9e8q\" title=\"\">Acceder al Padlet del Alumnado</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8e2-1a090c852</odePageId>
+  <odeParentPageId>page-mq87j8e1-e3ewbc3vz</odeParentPageId>
+  <pageName>🎼 2. Panel de Curación para el Docente</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎼 2. Panel de Curación para el Docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎼 2. Panel de Curación para el Docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8e2-1a090c852</odePageId>
+      <odeBlockId>block-1781086463565-zgwfiqk8d</odeBlockId>
+      <blockName>Symbaloo — Herramientas que uso en mi práctica docente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8e2-1a090c852</odePageId>
+          <odeBlockId>block-1781086463565-zgwfiqk8d</odeBlockId>
+          <odeIdeviceId>idevice-1781086463565-3s2wgrwve</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este panel incluye las herramientas digitales que utilizo habitualmente en el aula de violonchelo:</p>
+<ul>
+<li>Afinadores online</li>
+<li>Métronomos digitales</li>
+<li>Repositorios de partituras libres</li>
+<li>Canales de referencia para técnica instrumental</li>
+<li>Herramientas de edición de vídeo (Clipchamp)</li>
+<li>Herramientas de diseño (Canva)</li>
+<li>Recursos metodológicos</li>
+<li>Materiales de apoyo para familias</li>
+<li>Enlaces a REA de CEDEC, INTEF y CREA<br /></li>
+</ul>
+<p>👉 <a href="https://www.symbaloo.com/shared/AAAAAp0oCMgAA41_IBQBzw==" title="">Acceder al Symbaloo del docente</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781086463565-3s2wgrwve","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este panel incluye las herramientas digitales que utilizo habitualmente en el aula de violonchelo:</p>\n<ul>\n<li>Afinadores online</li>\n<li>Métronomos digitales</li>\n<li>Repositorios de partituras libres</li>\n<li>Canales de referencia para técnica instrumental</li>\n<li>Herramientas de edición de vídeo (Clipchamp)</li>\n<li>Herramientas de diseño (Canva)</li>\n<li>Recursos metodológicos</li>\n<li>Materiales de apoyo para familias</li>\n<li>Enlaces a REA de CEDEC, INTEF y CREA<br /></li>\n</ul>\n<p>👉 <a href=\"https://www.symbaloo.com/shared/AAAAAp0oCMgAA41_IBQBzw==\" title=\"\">Acceder al Symbaloo del docente</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8e3-44jb6iet7</odePageId>
+  <odeParentPageId>page-mq87j8dh-7e8og8q9h</odeParentPageId>
+  <pageName>5. Línea del tiempo del proyecto</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea del tiempo del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea del tiempo del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8e3-44jb6iet7</odePageId>
+      <odeBlockId>block-1781086949616-7zvxuq4ma</odeBlockId>
+      <blockName>🎻 ACTIVIDADES DEL PROYECTO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8e3-44jb6iet7</odePageId>
+          <odeBlockId>block-1781086949616-7zvxuq4ma</odeBlockId>
+          <odeIdeviceId>idevice-1781086949615-c7du86ogd</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1781086949615-c7du86ogd" title="" href="{{context_path}}/content/resources/“Tocamos canciones Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo” (1).jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/“Tocamos canciones Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo” (1).jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781086949615-c7du86ogd","img_0":{"img":"{{context_path}}/content/resources/“Tocamos canciones Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo” (1).jpg","thumbnail":"{{context_path}}/content/resources/“Tocamos canciones Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo” (1).jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq87j8e3-44jb6iet7</odePageId>
+      <odeBlockId>block-1781087102601-jzs31hydr</odeBlockId>
+      <blockName>🕒 LÍNEA TEMPORAL DEL PROYECTO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8e3-44jb6iet7</odePageId>
+          <odeBlockId>block-1781087102601-jzs31hydr</odeBlockId>
+          <odeIdeviceId>idevice-1781087102600-2j2gasruk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta línea temporal muestra las <strong>8 sesiones </strong>del proyecto “Tocamos canciones: Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo”. Cada sesión incluye las tareas principales, las herramientas y los recursos digitales.</p>
+<p><img src="{{context_path}}/content/resources/“Tocamos canciones Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo” (1).jpg" width="943" height="2000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781087102600-2j2gasruk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta línea temporal muestra las <strong>8 sesiones </strong>del proyecto “Tocamos canciones: Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo”. Cada sesión incluye las tareas principales, las herramientas y los recursos digitales.</p>\n<p><img src=\"{{context_path}}/content/resources/“Tocamos canciones Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo” (1).jpg\" width=\"943\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8e4-9wn9vq2nq</odePageId>
+  <odeParentPageId>page-mq87j8dh-7e8og8q9h</odeParentPageId>
+  <pageName>6. Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8e4-9wn9vq2nq</odePageId>
+      <odeBlockId>block-1781088691963-i83hgwa9a</odeBlockId>
+      <blockName>📏 6. Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8e4-9wn9vq2nq</odePageId>
+          <odeBlockId>block-1781088691963-i83hgwa9a</odeBlockId>
+          <odeIdeviceId>idevice-1781088691960-7ltlrcpeu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los criterios se relacionan directamente con las tareas del proyecto.    <img src="{{context_path}}/content/resources/mceclip4.png" /><img src="{{context_path}}/content/resources/mceclip5.png" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781088691960-7ltlrcpeu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los criterios se relacionan directamente con las tareas del proyecto.    <img src=\"{{context_path}}/content/resources/mceclip4.png\" /><img src=\"{{context_path}}/content/resources/mceclip5.png\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8e5-bzsrmrnii</odePageId>
+  <odeParentPageId>page-mq87j8dh-7e8og8q9h</odeParentPageId>
+  <pageName>7. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8e5-bzsrmrnii</odePageId>
+      <odeBlockId>block-1781090118840-neb3rxb3o</odeBlockId>
+      <blockName>📝 7. Instrumentos de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8e5-bzsrmrnii</odePageId>
+          <odeBlockId>block-1781090118840-neb3rxb3o</odeBlockId>
+          <odeIdeviceId>idevice-1781090118839-4zg82ksdm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto utiliza 3 instrumentos principales:</p>
+<p><strong>1. Rúbrica del micro‑vídeo</strong></p>
+<p>Evalúa postura, mano izquierda, afinación, arco, expresión y autoevaluación.</p>
+<p><img src="{{context_path}}/content/resources/mceclip6.png" /></p>
+<p><strong style="font-size: 14.4px;">2. Lista de cotejo de afinación cooperativa</strong></p>
+<p>Evalúa autonomía, escucha activa y trabajo en pareja.</p>
+<p><img src="{{context_path}}/content/resources/mceclip7.png" /></p>
+<p><strong style="font-size: 14.4px;">3. Registro anecdótico</strong></p>
+<p>Recoge observaciones cualitativas del proceso.</p>
+<p><img src="{{context_path}}/content/resources/mceclip8.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781090118839-4zg82ksdm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto utiliza 3 instrumentos principales:</p>\n<p><strong>1. Rúbrica del micro‑vídeo</strong></p>\n<p>Evalúa postura, mano izquierda, afinación, arco, expresión y autoevaluación.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip6.png\" /></p>\n<p><strong style=\"font-size: 14.4px;\">2. Lista de cotejo de afinación cooperativa</strong></p>\n<p>Evalúa autonomía, escucha activa y trabajo en pareja.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip7.png\" /></p>\n<p><strong style=\"font-size: 14.4px;\">3. Registro anecdótico</strong></p>\n<p>Recoge observaciones cualitativas del proceso.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip8.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8e5-uyft2fjvf</odePageId>
+  <odeParentPageId>page-mq87j8dh-7e8og8q9h</odeParentPageId>
+  <pageName>8. Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8e5-uyft2fjvf</odePageId>
+      <odeBlockId>block-1781091297414-gamsl646y</odeBlockId>
+      <blockName>📘 GUÍA DIDÁCTICA “Tocamos canciones: Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo”</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8e5-uyft2fjvf</odePageId>
+          <odeBlockId>block-1781091297414-gamsl646y</odeBlockId>
+          <odeIdeviceId>idevice-1781091297413-3fpdbu8hc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Finalidad de la SdA</strong></p>
+<p>Esta Situación de Aprendizaje tiene como objetivo desarrollar en el alumnado de 8–9 años las competencias musicales básicas del violonchelo, junto con el uso responsable y autónomo de herramientas digitales. El proyecto culmina con la creación de un <strong>micro‑vídeo musical</strong>, donde el alumnado muestra su progreso técnico, expresivo y digital.</p>
+<p>La SdA integra metodologías activas, trabajo cooperativo, autoevaluación y principios del Diseño Universal para el Aprendizaje (DUA).</p>
+<p> <br /><strong>2. Competencias específicas</strong></p>
+<p>La SdA contribuye al desarrollo de las siguientes competencias:</p>
+<ul>
+<li><strong>CE1. Interpretación musical básica</strong>: dominio progresivo de postura, mano izquierda, arco y afinación.</li>
+<li><strong>CE2. Competencia digital aplicada a la música</strong>: uso seguro y autónomo de herramientas digitales como afinadores online, Padlet y Clipchamp.</li>
+<li><strong>CE3. Competencia social y cívica</strong>: trabajo cooperativo en la afinación por parejas.</li>
+<li><strong>CE4. Competencia personal y aprender a aprender</strong>: autoevaluación mediante rúbrica y reflexión final.<br /></li>
+</ul>
+<p><strong>3. Relación entre tareas y criterios de evaluación</strong></p>
+<p>La siguiente tabla muestra la relación directa entre las tareas del proyecto y los criterios de evaluación asociados:</p>
+<p><img src="{{context_path}}/content/resources/mceclip10.png" /></p>
+<p><strong>4. Metodología</strong></p>
+<p>La SdA se basa en:</p>
+<ul>
+<li>Aprendizaje activo: el alumnado toca, experimenta, escucha y se graba.</li>
+<li>Trabajo cooperativo: afinación por parejas.</li>
+<li>Aprendizaje basado en retos: grabar un micro‑vídeo final.</li>
+<li>Aprendizaje multimodal: vídeos, audios, imágenes, demostraciones.</li>
+<li>Evaluación formativa y continua: instrumentos variados.</li>
+</ul>
+<p><strong>5. Organización del aula</strong></p>
+<ul>
+<li><strong>Espacio:</strong> aula de instrumento + zona tranquila para grabación.</li>
+<li><strong>Agrupamientos:</strong></li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul style="list-style-type: circle;">
+<li>Individual (técnica)</li>
+<li>Parejas (afinación cooperativa)</li>
+<li>Grupo de 3 (puesta en común)</li>
+</ul>
+</li>
+<li><strong>Materiales</strong>: violonchelo, arco, afinador digital, tablet/móvil, atril.</li>
+<li><strong>Recursos digitales:</strong> Padlet, Symbaloo, Clipchamp, afinador online.</li>
+</ul>
+<p><strong>6. Atención a la diversidad.</strong><br />La SdA contempla:</p>
+<ul>
+<li><strong> Adaptaciones de acceso</strong></li>
+</ul>
+<ul style="list-style-type: circle;">
+<li>Vídeos con subtítulos</li>
+<li>Imágenes claras y ampliables</li>
+<li>Ritmos diferenciados</li>
+</ul>
+<ul>
+<li><strong>Adaptaciones metodológicas</strong></li>
+</ul>
+<ul style="list-style-type: circle;">
+<li>Ejercicios graduados por dificultad</li>
+<li>Repetición guiada</li>
+<li>Modelos visuales y auditivos</li>
+</ul>
+<ul>
+<li><strong>Adaptaciones en la evaluación</strong></li>
+</ul>
+<ul style="list-style-type: circle;">
+<li>Repetición del vídeo si hay ansiedad</li>
+<li>Evaluación oral alternativa</li>
+<li>Apoyo visual en la afinación<br /><br /></li>
+</ul>
+<p><strong>7. Instrumentos de evaluación</strong><br />La SdA utiliza 3 instrumentos:</p>
+<ul>
+<li><strong>Rúbrica del micro‑vídeo</strong></li>
+</ul>
+<p>Evalúa postura, mano izquierda, afinación, arco, expresión y autoevaluación. </p>
+<ul>
+<li><strong>Lista de cotejo de afinación cooperativa</strong></li>
+</ul>
+<p>Evalúa autonomía, discriminación auditiva y trabajo en pareja. </p>
+<ul>
+<li><strong>Registro anecdótico</strong></li>
+</ul>
+<p>Recoge observaciones cualitativas del proceso.</p>
+<p><strong></strong><br /></p>
+<p><strong>8. Recomendaciones para otros docentes</strong></p>
+<ul>
+<li>Presentar la SdA de forma visual y motivadora.</li>
+<li>Dedicar tiempo a la postura antes de avanzar.</li>
+<li>Usar el afinador digital como herramienta pedagógica, no solo técnica.</li>
+<li>Fomentar la grabación como proceso natural de aprendizaje.</li>
+<li>Revisar los vídeos con el alumnado para reforzar la autoevaluación.</li>
+<li>Mantener un clima de confianza durante la grabación final.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781091297413-3fpdbu8hc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Finalidad de la SdA</strong></p>\n<p>Esta Situación de Aprendizaje tiene como objetivo desarrollar en el alumnado de 8–9 años las competencias musicales básicas del violonchelo, junto con el uso responsable y autónomo de herramientas digitales. El proyecto culmina con la creación de un <strong>micro‑vídeo musical</strong>, donde el alumnado muestra su progreso técnico, expresivo y digital.</p>\n<p>La SdA integra metodologías activas, trabajo cooperativo, autoevaluación y principios del Diseño Universal para el Aprendizaje (DUA).</p>\n<p> <br /><strong>2. Competencias específicas</strong></p>\n<p>La SdA contribuye al desarrollo de las siguientes competencias:</p>\n<ul>\n<li><strong>CE1. Interpretación musical básica</strong>: dominio progresivo de postura, mano izquierda, arco y afinación.</li>\n<li><strong>CE2. Competencia digital aplicada a la música</strong>: uso seguro y autónomo de herramientas digitales como afinadores online, Padlet y Clipchamp.</li>\n<li><strong>CE3. Competencia social y cívica</strong>: trabajo cooperativo en la afinación por parejas.</li>\n<li><strong>CE4. Competencia personal y aprender a aprender</strong>: autoevaluación mediante rúbrica y reflexión final.<br /></li>\n</ul>\n<p><strong>3. Relación entre tareas y criterios de evaluación</strong></p>\n<p>La siguiente tabla muestra la relación directa entre las tareas del proyecto y los criterios de evaluación asociados:</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip10.png\" /></p>\n<p><strong>4. Metodología</strong></p>\n<p>La SdA se basa en:</p>\n<ul>\n<li>Aprendizaje activo: el alumnado toca, experimenta, escucha y se graba.</li>\n<li>Trabajo cooperativo: afinación por parejas.</li>\n<li>Aprendizaje basado en retos: grabar un micro‑vídeo final.</li>\n<li>Aprendizaje multimodal: vídeos, audios, imágenes, demostraciones.</li>\n<li>Evaluación formativa y continua: instrumentos variados.</li>\n</ul>\n<p><strong>5. Organización del aula</strong></p>\n<ul>\n<li><strong>Espacio:</strong> aula de instrumento + zona tranquila para grabación.</li>\n<li><strong>Agrupamientos:</strong></li>\n</ul>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul style=\"list-style-type: circle;\">\n<li>Individual (técnica)</li>\n<li>Parejas (afinación cooperativa)</li>\n<li>Grupo de 3 (puesta en común)</li>\n</ul>\n</li>\n<li><strong>Materiales</strong>: violonchelo, arco, afinador digital, tablet/móvil, atril.</li>\n<li><strong>Recursos digitales:</strong> Padlet, Symbaloo, Clipchamp, afinador online.</li>\n</ul>\n<p><strong>6. Atención a la diversidad.</strong><br />La SdA contempla:</p>\n<ul>\n<li><strong> Adaptaciones de acceso</strong></li>\n</ul>\n<ul style=\"list-style-type: circle;\">\n<li>Vídeos con subtítulos</li>\n<li>Imágenes claras y ampliables</li>\n<li>Ritmos diferenciados</li>\n</ul>\n<ul>\n<li><strong>Adaptaciones metodológicas</strong></li>\n</ul>\n<ul style=\"list-style-type: circle;\">\n<li>Ejercicios graduados por dificultad</li>\n<li>Repetición guiada</li>\n<li>Modelos visuales y auditivos</li>\n</ul>\n<ul>\n<li><strong>Adaptaciones en la evaluación</strong></li>\n</ul>\n<ul style=\"list-style-type: circle;\">\n<li>Repetición del vídeo si hay ansiedad</li>\n<li>Evaluación oral alternativa</li>\n<li>Apoyo visual en la afinación<br /><br /></li>\n</ul>\n<p><strong>7. Instrumentos de evaluación</strong><br />La SdA utiliza 3 instrumentos:</p>\n<ul>\n<li><strong>Rúbrica del micro‑vídeo</strong></li>\n</ul>\n<p>Evalúa postura, mano izquierda, afinación, arco, expresión y autoevaluación. </p>\n<ul>\n<li><strong>Lista de cotejo de afinación cooperativa</strong></li>\n</ul>\n<p>Evalúa autonomía, discriminación auditiva y trabajo en pareja. </p>\n<ul>\n<li><strong>Registro anecdótico</strong></li>\n</ul>\n<p>Recoge observaciones cualitativas del proceso.</p>\n<p><strong></strong><br /></p>\n<p><strong>8. Recomendaciones para otros docentes</strong></p>\n<ul>\n<li>Presentar la SdA de forma visual y motivadora.</li>\n<li>Dedicar tiempo a la postura antes de avanzar.</li>\n<li>Usar el afinador digital como herramienta pedagógica, no solo técnica.</li>\n<li>Fomentar la grabación como proceso natural de aprendizaje.</li>\n<li>Revisar los vídeos con el alumnado para reforzar la autoevaluación.</li>\n<li>Mantener un clima de confianza durante la grabación final.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq87j8e6-thtc86gdx</odePageId>
+  <odeParentPageId>page-mq87j8dh-7e8og8q9h</odeParentPageId>
+  <pageName>9. Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>9. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value>SdA “Tocamos canciones: Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo”</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value>Recurso Educativo Abierto (REA) creado con eXeLearning 3 para alumnado de 8–9 años en iniciación al violonchelo.
+Incluye actividades prácticas, recursos digitales, curación de contenidos, instrumentos de evaluación, línea temporal, guía didáctica y un producto final audiovisual.
+El proyecto desarrolla la autonomía musical, la afinación cooperativa, la competencia digital y la autoevaluación mediante un enfoque activo y basado en el DUA.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq87j8e6-thtc86gdx</odePageId>
+      <odeBlockId>block-1781095789696-e4ob1ybr8</odeBlockId>
+      <blockName>🧾 CRÉDITOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq87j8e6-thtc86gdx</odePageId>
+          <odeBlockId>block-1781095789696-e4ob1ybr8</odeBlockId>
+          <odeIdeviceId>idevice-1781095789694-eoyk7qeix</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Tocamos canciones: Afinación Cooperativa y Autonomía Audiovisual en el Violonchelo</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Recurso Educativo Abierto (REA) creado con eXeLearning 3 para alumnado de 8–9 años en iniciación al violonchelo.
+Incluye actividades prácticas, recursos digitales, curación de contenidos, instrumentos de evaluación, línea temporal, guía didáctica y un producto final audiovisual.
+El proyecto desarrolla la autonomía musical, la afinación cooperativa, la competencia digital y la autoevaluación mediante un enfoque activo.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Juan Bautista Manzanares Guillén</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
